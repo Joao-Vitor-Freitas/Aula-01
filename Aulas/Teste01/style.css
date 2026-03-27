@@ -1,7 +1,26 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(243, 247, 245);
+    
 }
 p{
-    color: darkred;
-    font-size: 70px;
+    color: black;
+    font-size: 18px;
+}
+h1{
+    font-size: 42px;
+    font-family:'Times New Roman';
+}
+h2{
+    font-size: 26px;
+}
+h3{
+    background-color: rgba(148, 128, 62, 0.959);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    font-size: 36px;
+}
+
+ul li{
+    list-style: none;
 }
